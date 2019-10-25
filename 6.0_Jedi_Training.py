@@ -11,11 +11,11 @@ Sign your name: Tristan
 
 3.) Convert Hexadecimal FC to Binary.
 
-11111101
+11111100
 
 4.) Convert Hexadecimal 1F to Decimal.
 
-1615
+31
 
 5.) Convert Hexadecimal #FAAFBD to RGB.
 
